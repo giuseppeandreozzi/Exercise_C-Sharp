@@ -13,3 +13,6 @@ A simple program that implement the commands (on, off and north, south, west, ea
 
 **Level 31 - The Fountain of Objects**<br/>
 A simple program that implement a grid game where the user can navigate in a 4x4 grid in order to find and turn on the fountain of objects, then going back to the entrance to win the game
+
+**Level 34 - Better Random**<br/>
+Implements the following extensions methods for Random class: NextDouble that gives a maximum value for a randomly generated double, NextString that allows you to pass in any number of string values and randomly pick one of them and CoinFlip that randomly picks a bool value (It should have an optional parameter that indicates the frequency of heads coming up)
