@@ -19,3 +19,6 @@ Implements the following extensions methods for Random class: NextDouble that gi
 
 **Level 35 - Exepti's game**<br/>
 A simple game where two users picks a number between 0 and 9, if this number coincides with the randomly chosen one the player will lose and the game will end.
+
+**Level 36 - The Sieve**<br/>
+A simple program where the user can choose between three filter and afterwards he can insert repeatedly a number to verify if the filter either support or not the number provided from the user.
