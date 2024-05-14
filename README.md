@@ -25,3 +25,6 @@ A simple program where the user can choose between three filter and afterwards h
 
 **Level 37 - Charberry Trees**<br/>
 A simple program to work with events. The source of the event is a class that represent a charberry trees and the two listeners are: the first to notify that the fruits has ripened and the second to automatically harvest them.
+
+**Level 39 - The Long Game**<br/>
+A simple game where the user can enter his username and every time he press a key his score increments. If the user press the key Enter the game stops and the program will save the user's score in a file which name is the user's name. Furthermore, the program will use the score saved as initial score for the next time the user will play.
