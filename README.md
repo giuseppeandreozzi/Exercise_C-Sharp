@@ -28,3 +28,18 @@ A simple program to work with events. The source of the event is a class that re
 
 **Level 39 - The Long Game**<br/>
 A simple game where the user can enter his username and every time he press a key his score increments. If the user press the key Enter the game stops and the program will save the user's score in a file which name is the user's name. Furthermore, the program will use the score saved as initial score for the next time the user will play.
+
+**Level 40 - The Potion Masters of Pattren**<br/>
+A program where the user can create a potion using some ingredients. Following these rules:
+* All potions start as water. 
+* Adding stardust to water turns it into an elixir. 
+* Adding snake venom to an elixir turns it into a poison potion. 
+* Adding dragon breath to an elixir turns it into a flying potion. 
+* Adding shadow glass to an elixir turns it into an invisibility potion. 
+* Adding an eyeshine gem to an elixir turns it into a night sight potion.
+* Adding shadow glass to a night sight potion turns it into a cloudy brew. 
+* Adding an eyeshine gem to an invisibility potion turns it into a cloudy brew. 
+* Adding stardust to a cloudy brew turns it into a wraith potion. 
+* Anything else results in a ruined potion.
+
+N.B: Program made in order to work with pattern matching
