@@ -47,3 +47,6 @@ N.B: Program made in order to work with pattern matching
 **Level 41 - Navigating Operand City + Indexing Operand City + Converting Directions to Offsets**<br/>
 A simple program to work with operator overloading, indexer and custom conversion.
 
+**Level 42 - The Three Lenses**<br/>
+A simple program to work with query expressions (both keyword and method call syntax)
+
