@@ -43,3 +43,7 @@ A program where the user can create a potion using some ingredients. Following t
 * Anything else results in a ruined potion.
 
 N.B: Program made in order to work with pattern matching
+
+**Level 41 - Navigating Operand City + Indexing Operand City + Converting Directions to Offsets**<br/>
+A simple program to work with operator overloading, indexer and custom conversion.
+
