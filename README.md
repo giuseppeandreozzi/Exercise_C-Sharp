@@ -50,3 +50,5 @@ A simple program to work with operator overloading, indexer and custom conversio
 **Level 42 - The Three Lenses**<br/>
 A simple program to work with query expressions (both keyword and method call syntax)
 
+**Level 43 - The Repeating Stream**<br/>
+A simple program to work with threads. One thread generate a random numbers and another wait for the user to press a key to spot a repetition on the generation.
