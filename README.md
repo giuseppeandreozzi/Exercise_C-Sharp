@@ -52,3 +52,6 @@ A simple program to work with query expressions (both keyword and method call sy
 
 **Level 43 - The Repeating Stream**<br/>
 A simple program to work with threads. One thread generate a random numbers and another wait for the user to press a key to spot a repetition on the generation.
+
+**Level 44 - Asynchronous Random Word + Many Random Words**<br/>
+A simple program to work with async task. The user can insert many word as he wants and the program will run a task for each word to reproduce it. 
