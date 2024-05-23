@@ -55,3 +55,9 @@ A simple program to work with threads. One thread generate a random numbers and 
 
 **Level 44 - Asynchronous Random Word + Many Random Words**<br/>
 A simple program to work with async task. The user can insert many word as he wants and the program will run a task for each word to reproduce it. 
+
+**Level 45 - Uniter of Adds**<br/>
+A simple program to work with dynamic type checking. Builded a method that can make an addition on two variable of any type using *dynamic* type. 
+
+**Level 45 - The Robot Factory**<br/>
+A simple program to work with dynamic object. The program will ask the user to create a robot and the program will hold the information about it in a dynamic object. 
