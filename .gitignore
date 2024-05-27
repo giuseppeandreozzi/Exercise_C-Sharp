@@ -7,3 +7,13 @@
 */.vs
 
 */*.sln
+
+ClassLibrary/*/bin
+
+ClassLibrary/*/obj
+
+ClassLibrary/*/*.csproj
+
+ClassLibrary/*/.vs
+
+ClassLibrary/*/*.sln
