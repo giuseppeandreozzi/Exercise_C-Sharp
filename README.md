@@ -61,3 +61,6 @@ A simple program to work with dynamic type checking. Builded a method that can m
 
 **Level 45 - The Robot Factory**<br/>
 A simple program to work with dynamic object. The program will ask the user to create a robot and the program will hold the information about it in a dynamic object. 
+
+**Level 48 - Colored Console**<br/>
+A simple program to work with class library. The *Colored Console* project will use *ConsoleLibrary* (inside the directory *ClassLibrary*) as a class library to display some text to the console.

@@ -8,12 +8,12 @@
 
 */*.sln
 
-ClassLibrary/*/bin
+Class Library/*/bin
 
-ClassLibrary/*/obj
+Class Library/*/obj
 
-ClassLibrary/*/*.csproj
+Class Library/*/*.csproj
 
-ClassLibrary/*/.vs
+Class Library/*/.vs
 
-ClassLibrary/*/*.sln
+Class Library/*/*.sln
