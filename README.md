@@ -64,3 +64,6 @@ A simple program to work with dynamic object. The program will ask the user to c
 
 **Level 48 - Colored Console**<br/>
 A simple program to work with class library. The *Colored Console* project will use *ConsoleLibrary* (inside the directory *ClassLibrary*) as a class library to display some text to the console.
+
+**Level 48 - The Great Humanizer**<br/>
+A simple program to work with NuGet package. The program will use the package *Humanizer.Core* to display the DateTime in a human-readable message.
