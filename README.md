@@ -67,3 +67,8 @@ A simple program to work with class library. The *Colored Console* project will 
 
 **Level 48 - The Great Humanizer**<br/>
 A simple program to work with NuGet package. The program will use the package *Humanizer.Core* to display the DateTime in a human-readable message.
+
+**Level 52 - The Final Battle**<br/>
+The final exercise of the book. It's a battle game that includes two parties: Heroes and Monsters, starting from heroes party a team member attack a random member on the monsters party, after that a monsters team member attack a random member on heroes party and so on until the heroes or the monsters are all killed. The game mode is Player vs Player, Player vs Computer and Computer vs Computer. The player at each his turn can choose between: Do nothing, standard attack and use an health potion (that heal the current team member of 10 hp).
+The monsters party is divided in three layers: *Skeleton*, *Two skeletons* and *The Uncoded One* (the final boss), instead the heroes party include only the Hero that the user can give his a name.
+Every time the heroes party kill all the enemies in a monsters party layer, the members of the next layer become the current target of the heroes party. The heroes party will win if they kill all the enemies in all three layers of the monsters party.
